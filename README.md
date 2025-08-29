@@ -50,8 +50,7 @@ conda install notebook ipykernel pandas \
 ```
 
 ```bash
-python -m ipykernel install --user --name=conda-base --display-name="Python (con
-da base)"
+python -m ipykernel install --user --name=conda-base --display-name="Python (conda base)"
 ```
 ```bash
 jupyter kernelspec list
